@@ -1,0 +1,1 @@
+Rubí Version Manager(RVM), es una plataforma de software Unix diseñada para gestionar varias instalaciones de Rubí en el mismo dispositivo.
